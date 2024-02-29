@@ -9,14 +9,14 @@
     "pushdb": "drizzle-kit push:pg"
   },
   "dependencies": {
-    "@solidjs/router": "^0.11.5",
-    "@solidjs/start": "^0.5.2",
+    "@solidjs/router": "^0.12.4",
+    "@solidjs/start": "^0.6.0",
     "@unocss/reset": "^0.58.3",
     "@vercel/postgres": "^0.7.2",
-    "drizzle-orm": "^0.29.3",
-    "solid-js": "^1.8.14",
+    "drizzle-orm": "^0.29.4",
+    "solid-js": "^1.8.15",
     "unocss": "^0.58.3",
-    "vinxi": "^0.2.1"
+    "vinxi": "^0.3.4"
   },
   "engines": {
     "node": ">=18"
